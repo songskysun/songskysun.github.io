@@ -13,7 +13,7 @@ content-type: eg
 ### Contact
 
 Email: songskysun@gmail.com <br>
-[github profile](https://github.com/songskysun)
+[github profile](https://github.com/songskysun) <br>
 [velog blog](https:velog.io/@songskysun)
 
 ---
