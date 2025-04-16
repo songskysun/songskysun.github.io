@@ -14,5 +14,6 @@ content-type: eg
 
 Email: songskysun@gmail.com <br>
 [github profile](https://github.com/songskysun)
+[velog blog](https:velog.io/@songskysun)
 
 ---
