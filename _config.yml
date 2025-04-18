@@ -4,7 +4,7 @@ tagline:             'blog'
 description:         '게으른 개발자 끄적끄적'
 url:                 https://songskysun.github.io
 baseurl:             ''
-paginate:            5
+paginate:            3
 permalink:           pretty
 
 # About/contact
