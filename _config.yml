@@ -1,15 +1,22 @@
-# Site settings
-title: repoleved
-email: songskysun@example.com
-description: °ÔÀ¸¸¥ °³¹ßÀÚÀÇ ²ôÀû²ôÀû
-twitter_username: songskysun
-github_username: songskysun
+# Setup
+title:               repoleved
+tagline:             'blog'
+description:         'ê²Œìœ¼ë¥¸ ê°œë°œì ë„ì ë„ì '
+url:                 https://songskysun.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-# Build settings
-markdown: kramdown
+# About/contact
+author:
+  name:              Hyesung Shin
+  url:               https://github.com/songskysun
+  email:             songskysun@gmail.com
 
-highlighter: rouge
+# Gems
+plugins:
+  - jekyll-paginate
 
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
